@@ -1,3 +1,3 @@
-# winter_break_exercises_2020
+# exercises_2020_2021
 
-Collection of practice exercises for Strive AI Engineering 2020/2021 winter break.
+Collection of practice exercises for outside the mandatory ones for Strive AI Engineering 2020/2021
